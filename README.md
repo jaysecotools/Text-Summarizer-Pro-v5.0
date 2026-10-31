@@ -243,5 +243,4 @@ repo history. Highlights:
 
 ## License
 
-Add whichever license you like here. MIT pairs well with "single-file, no
-dependencies beyond the obvious."
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
