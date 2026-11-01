@@ -8,6 +8,7 @@ multi-format, keyword extraction, and export to `.txt` / `.docx`.
 - **No build step.** One `.py` file, auto-installs its own dependencies.
 - **No secrets.** Nothing to configure; the app detects Ollama and picks a model.
 
+![Text Summarizer Pro v5.0 main window](docs/screenshot.png)
 ---
 
 ## What it does
